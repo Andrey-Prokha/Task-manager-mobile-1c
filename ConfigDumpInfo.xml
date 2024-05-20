@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="CommonModule.КоннекторHTTP" id="4fe726c4-24ce-47bf-ac63-dd4cbd9cd6eb" configVersion="451791f894031e449e1005d87c7d6e3200000000"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="4fe726c4-24ce-47bf-ac63-dd4cbd9cd6eb.0" configVersion="1a7d25e2be68434a83084c0d1e7d2da000000000"/>
+		<Metadata name="CommonPicture.Настройки" id="3f370a59-29e6-477a-b810-63023e3e9293" configVersion="fa3c9ad617ca3546b0377567e98bb50b00000000"/>
+		<Metadata name="CommonPicture.Настройки.Picture" id="3f370a59-29e6-477a-b810-63023e3e9293.0" configVersion="32182885c3927d46add7ef4e586980aa00000000"/>
+		<Metadata name="Configuration.МенеджерЗадач" id="65b3ef74-d4d1-4de1-b940-38dd45efef99" configVersion="1541e50fdc549344842680824b56ba8f00000000"/>
+		<Metadata name="Configuration.МенеджерЗадач.HomePageWorkArea" id="718acc6e-0634-433b-a367-c70d29c6139d.8" configVersion="c34bec416b65864d9945abb5a529a81f00000000"/>
+		<Metadata name="Configuration.МенеджерЗадач.ManagedApplicationModule" id="718acc6e-0634-433b-a367-c70d29c6139d.6" configVersion="2d7474114121c54ea98d67f6de8f72a700000000"/>
+		<Metadata name="Constant.RefreshТокен" id="43467cd6-bd61-40de-83b8-0a3b038bf1de" configVersion="dae9134d441ffa41a25d1c60f6290c9700000000"/>
+		<Metadata name="Constant.АдресСервера" id="a5867337-e8b1-40d4-8356-2d0c9dd3d8e7" configVersion="25ed5882c360a44987c0bd25c46f675800000000"/>
+		<Metadata name="DataProcessor.МенеджерЗадач" id="acee2106-d32b-478a-ab9f-a2c567f8c3f4" configVersion="08627f930f86284aa6c2330799dbdec900000000">
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Status" id="2e4a6d65-15dd-4a78-857c-74d3661207ec"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.АдресСервера" id="429f8e04-a0ee-4a8b-9631-21c774417c7b"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Reading" id="51a103dc-83d9-4b5f-af17-d3c1271f726a"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Addition" id="5c379674-2e26-4143-8132-bdc04bf1272d"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.ВремяЖизниТокена" id="689f02d2-d0ad-45da-81f3-115e193c6d1b"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Partner" id="8faf0f32-d080-463e-93ca-f95b7cdfb74a"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Responsible" id="9b9d4920-c5de-4396-973e-0c0a6e066915"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.RefreshToken" id="a34f37cc-76d0-4a31-9f03-5a2fd4ec283b"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.AccessToken" id="cd9692fe-ff50-4992-a561-1871c590b151"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Сhange" id="d36b95aa-ce4b-4b5d-a66b-bbe3ce87bab1"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Type" id="dca69db9-08c3-4225-a193-8157aa1aa2ba"/>
+			<Metadata name="DataProcessor.МенеджерЗадач.Attribute.Запомнить" id="de4b6844-7490-4d6d-9661-c6c4b6a83daa"/>
+		</Metadata>
+		<Metadata name="DataProcessor.МенеджерЗадач.Form.Форма" id="bbefda3d-7319-4814-87fb-fc0491b811ef" configVersion="dd8e4ae28f44b54ba06dfac52917260b00000000"/>
+		<Metadata name="DataProcessor.МенеджерЗадач.Form.Форма.Form" id="bbefda3d-7319-4814-87fb-fc0491b811ef.0" configVersion="97200dd6998a2849a055f7abe0e1c49100000000"/>
+		<Metadata name="DataProcessor.МенеджерЗадач.Form.ФормаЗадачи" id="58db2806-f448-49b1-9596-e122d9c7aec0" configVersion="9e2e1d3a63927a49ac18aba0d4e18a6300000000"/>
+		<Metadata name="DataProcessor.МенеджерЗадач.Form.ФормаЗадачи.Form" id="58db2806-f448-49b1-9596-e122d9c7aec0.0" configVersion="f914d141f3f1f04fb70b35c5f256761b00000000"/>
+		<Metadata name="DataProcessor.МенеджерЗадач.Form.ФормаНастроек" id="53361aab-130e-4df1-b3d4-703ff00f3440" configVersion="17dca482d1f038419ff57a214eb926b500000000"/>
+		<Metadata name="DataProcessor.МенеджерЗадач.Form.ФормаНастроек.Form" id="53361aab-130e-4df1-b3d4-703ff00f3440.0" configVersion="efe6be91dfe15e41a5dfcc592b9a69ef00000000"/>
+		<Metadata name="DataProcessor.МенеджерЗадач.ObjectModule" id="acee2106-d32b-478a-ab9f-a2c567f8c3f4.0" configVersion="4afee6e77b5ea3499df00867273d7e7d00000000"/>
+		<Metadata name="InformationRegister.КешируемыеЗначения" id="8bb477aa-f5c5-4dde-ba97-deea3edc8644" configVersion="fb2821bb3f2b3746b2b063c28096028f00000000">
+			<Metadata name="InformationRegister.КешируемыеЗначения.Dimension.Тип" id="68ae7296-0e08-44e6-8398-d9d30d109805"/>
+			<Metadata name="InformationRegister.КешируемыеЗначения.Resource.КешированныеДанные" id="6d0e8d48-ece1-4095-b0d2-ff08003b9101"/>
+			<Metadata name="InformationRegister.КешируемыеЗначения.Resource.СрокЖизни" id="fa508385-c751-4421-a200-bf50e406cecd"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="c5682704-1a9b-455b-afd3-9ebbfb00bf35" configVersion="d7691b5c386a5b41b24221d9f0bdec6b00000000"/>
+		<Metadata name="Style.Основной" id="89808bbd-7714-4675-8f7d-adea2384536c" configVersion="cb890b37691e10409977559bd94e066c00000000"/>
+		<Metadata name="Style.Основной.Style" id="89808bbd-7714-4675-8f7d-adea2384536c.0" configVersion="4a8d4d345e048847b10bd0c528e8d67900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
